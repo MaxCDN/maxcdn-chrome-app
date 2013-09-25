@@ -1,0 +1,19 @@
+
+
+{
+   "app": {
+      "launch": {
+         "web_url": "http://cp.maxcdn.com/"
+      },
+      "urls": [ "http://cp.maxcdn.com/" ]
+   },
+   "description": "Manage your Zones, View Reports and Check our Network Status.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+
+   "manifest_version": 2,
+   "name": "MaxCDN Control Panel",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "4.0"
+}
